@@ -2,7 +2,7 @@
 """
 Created on Tue Apr 28 03:50:59 2020
 
-@author: Vishwa
+@author: Kajol
 """
 
 import tensorflow as tf
